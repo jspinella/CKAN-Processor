@@ -1,0 +1,11 @@
+C:\Users\james\Documents\GitHub\CentralExecutive\CKANScraper\bin\Debug\netcoreapp3.1\CKANScraper.exe
+C:\Users\james\Documents\GitHub\CentralExecutive\CKANScraper\bin\Debug\netcoreapp3.1\CKANScraper.deps.json
+C:\Users\james\Documents\GitHub\CentralExecutive\CKANScraper\bin\Debug\netcoreapp3.1\CKANScraper.runtimeconfig.json
+C:\Users\james\Documents\GitHub\CentralExecutive\CKANScraper\bin\Debug\netcoreapp3.1\CKANScraper.runtimeconfig.dev.json
+C:\Users\james\Documents\GitHub\CentralExecutive\CKANScraper\bin\Debug\netcoreapp3.1\CKANScraper.dll
+C:\Users\james\Documents\GitHub\CentralExecutive\CKANScraper\bin\Debug\netcoreapp3.1\CKANScraper.pdb
+C:\Users\james\Documents\GitHub\CentralExecutive\CKANScraper\obj\Debug\netcoreapp3.1\CKANScraper.csprojAssemblyReference.cache
+C:\Users\james\Documents\GitHub\CentralExecutive\CKANScraper\obj\Debug\netcoreapp3.1\CKANScraper.AssemblyInfoInputs.cache
+C:\Users\james\Documents\GitHub\CentralExecutive\CKANScraper\obj\Debug\netcoreapp3.1\CKANScraper.AssemblyInfo.cs
+C:\Users\james\Documents\GitHub\CentralExecutive\CKANScraper\obj\Debug\netcoreapp3.1\CKANScraper.dll
+C:\Users\james\Documents\GitHub\CentralExecutive\CKANScraper\obj\Debug\netcoreapp3.1\CKANScraper.pdb

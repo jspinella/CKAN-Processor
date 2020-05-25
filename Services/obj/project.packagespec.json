@@ -1,0 +1,50 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/jspinella/Documents/GitHub/CentralExecutive/Services/Services.csproj",
+    "projectName": "Services",
+    "projectPath": "/Users/jspinella/Documents/GitHub/CentralExecutive/Services/Services.csproj",
+    "outputPath": "/Users/jspinella/Documents/GitHub/CentralExecutive/Services/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netstandard2.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "projectReferences": {
+          "/Users/jspinella/Documents/GitHub/CentralExecutive/Models/Models.csproj": {
+            "projectPath": "/Users/jspinella/Documents/GitHub/CentralExecutive/Models/Models.csproj"
+          },
+          "/Users/jspinella/Documents/GitHub/CentralExecutive/Repositories/Repositories.csproj": {
+            "projectPath": "/Users/jspinella/Documents/GitHub/CentralExecutive/Repositories/Repositories.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.1": {
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

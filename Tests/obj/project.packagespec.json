@@ -1,0 +1,70 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/jspinella/Documents/GitHub/CentralExecutive/Tests/Tests.csproj",
+    "projectName": "Tests",
+    "projectPath": "/Users/jspinella/Documents/GitHub/CentralExecutive/Tests/Tests.csproj",
+    "outputPath": "/Users/jspinella/Documents/GitHub/CentralExecutive/Tests/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {
+          "/Users/jspinella/Documents/GitHub/CentralExecutive/CentralExecutive/CentralExecutive.csproj": {
+            "projectPath": "/Users/jspinella/Documents/GitHub/CentralExecutive/CentralExecutive/CentralExecutive.csproj"
+          },
+          "/Users/jspinella/Documents/GitHub/CentralExecutive/Models/Models.csproj": {
+            "projectPath": "/Users/jspinella/Documents/GitHub/CentralExecutive/Models/Models.csproj"
+          },
+          "/Users/jspinella/Documents/GitHub/CentralExecutive/Repositories/Repositories.csproj": {
+            "projectPath": "/Users/jspinella/Documents/GitHub/CentralExecutive/Repositories/Repositories.csproj"
+          },
+          "/Users/jspinella/Documents/GitHub/CentralExecutive/Services/Services.csproj": {
+            "projectPath": "/Users/jspinella/Documents/GitHub/CentralExecutive/Services/Services.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[16.0.1, )"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

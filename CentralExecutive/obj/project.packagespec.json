@@ -1,0 +1,66 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/jspinella/Documents/GitHub/CentralExecutive/CentralExecutive/CentralExecutive.csproj",
+    "projectName": "CentralExecutive",
+    "projectPath": "/Users/jspinella/Documents/GitHub/CentralExecutive/CentralExecutive/CentralExecutive.csproj",
+    "outputPath": "/Users/jspinella/Documents/GitHub/CentralExecutive/CentralExecutive/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {
+          "/Users/jspinella/Documents/GitHub/CentralExecutive/Models/Models.csproj": {
+            "projectPath": "/Users/jspinella/Documents/GitHub/CentralExecutive/Models/Models.csproj"
+          },
+          "/Users/jspinella/Documents/GitHub/CentralExecutive/Repositories/Repositories.csproj": {
+            "projectPath": "/Users/jspinella/Documents/GitHub/CentralExecutive/Repositories/Repositories.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "dependencies": {
+        "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+          "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.9.7, )"
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[12.0.2, )"
+        },
+        "RabbitMQ.Client": {
+          "target": "Package",
+          "version": "[5.1.2, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

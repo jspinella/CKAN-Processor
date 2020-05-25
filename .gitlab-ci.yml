@@ -1,0 +1,20 @@
+image: mcr.microsoft.com/dotnet/core/sdk:3.0
+
+stages:
+    - build
+    - test
+
+before_script:
+    - "cd CentralExecutive"
+    - "dotnet restore"
+
+build:
+    stage: build
+    script:
+        - "dotnet build"
+
+test:
+    stage: test
+    script: 
+        - "cd ../Tests"
+        - "dotnet build"
